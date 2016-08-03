@@ -1,0 +1,6 @@
+{
+  "name": "snorkel-cli-template-webpack",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "Base on react,suit to singel page app.A full-featured Webpack setup with hot-reload, lint-on-save & css extraction."
+}
